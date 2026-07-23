@@ -384,12 +384,11 @@
 		"github_username": "xqk"
 	},
 	"67": {
-		"domain": "blog.mcenahle.cn",
-		"icon": "https://blog.mcenahle.cn/upload/blog.png",
+		"domain": "blog.mcenahle.page",
+		"icon": "https://blog.mcenahle.page/img/icon.png",
 		"name": "梅之夏",
 		"description": "Explore. Dream. Discover.",
-		"github_username": "Mcenahle",
-		"hidden": true
+		"github_username": "mcenahle"
   	}, 
 	"68": {
 		"domain": "suus.me",
